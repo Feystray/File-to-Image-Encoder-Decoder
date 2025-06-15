@@ -1,4 +1,5 @@
 It's a script that can be used to encode any file to a corresponding PNG image file. 
+Thanks to pngjs contributers.
 
 # Example
 
